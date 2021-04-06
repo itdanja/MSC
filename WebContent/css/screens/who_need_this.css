@@ -1,0 +1,94 @@
+.exercise-box{
+	width: 1140px;
+	height: 3900px;
+	background-color: white;
+	margin: 150px 0px; 
+	border: solid 2px var(--bgcolor); 
+	border-radius: 25px;
+	background-color: var(--bgcolor);
+}
+.exercise-box h2{
+	margin: 25px 0px 20px 25px;
+	font-size: 25px;
+	color: var(--fontcolor);
+}
+.exercise1{
+	margin: 10px 0px 30px 50px;
+	padding: 20px;
+	background-color: var(--columnbgcolor);
+	width: 1000px;
+	height: 1600px;
+	border-radius: 25px;
+	color: black;
+}
+.exercise2{
+	margin: 10px 0px 30px 50px;
+	padding: 20px;
+	background-color: var(--columnbgcolor);
+	width: 1000px;
+	height: 1000px;
+	border-radius: 25px;
+	color: black;
+}
+.exercise3{
+	margin: 10px 0px 30px 50px;
+	padding: 20px;
+	background-color: var(--columnbgcolor);
+	width: 1000px;
+	height: 1000px;
+	border-radius: 25px;
+	color: black;
+}
+.exercise-text{
+	width: 500px;
+	height: 30px;
+	position: relative;
+	font-size: 17px;
+	color: black;
+	top: -160px;
+	left:400px;
+	line-height: 20px;
+}
+.exercise-num{
+	font-size: 20px;
+	color: orange;
+	margin: 0px 0px 10px 10px;
+}
+.exercise-title{
+	font-size: 25px;
+	color: black;
+	margin-top: 10px;
+	margin: 0px 0px 20px 10px;
+}
+.exercise-img{
+	margin: 10px 0px 10px 10px;
+}
+.exercise-img img{
+	width: 300px;
+	height: 200px; 
+}
+
+.exercise-table{
+	margin: 10px;
+	border: solid 2px var(--bgcolor);
+	border-radius: 25px;
+	padding: 20px;
+}
+.exercise-table h3{
+	font-size: 20px;
+	color: black;
+	margin: 0px 0px 10px 0px;
+}
+.exercise-table-title{
+	line-height: 20px;
+	font-size: 17px;
+	border-left: solid 4px orange;
+	margin: 10px 0px 0px 0px;
+	padding: 0px 0px 0px 15px;
+}
+.exercise-table-contents{
+	line-height: 20px;
+	font-size: 15px;
+	width: 900px;
+	margin: 10px 0px 0px 10px;
+}

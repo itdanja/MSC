@@ -1,0 +1,36 @@
+@import "reset.css";
+@import "variables.css";
+
+	
+/* Screens */
+@import "screens/index.css";
+@import "screens/header.css";
+@import "screens/carousel.css";
+@import "screens/section.css";
+@import "screens/footer.css";
+@import "screens/signup.css";
+@import "screens/login.css";
+@import "screens/who_need_this.css";
+
+/* sns_screens */
+@import "sns_screens/snsindex.css";
+@import "sns_screens/snsheader.css";
+
+
+/* 홈페이지 전체 css */
+#main{
+	color: var(--fontcolor);
+	font-family: 'paybooc-Bold';
+ 	display: flex;
+ 	flex-direction: column;
+ 	align-items: center;
+ 
+}
+
+/* 폰트 */
+@font-face {
+    font-family: 'paybooc-Bold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-07@1.0/paybooc-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
