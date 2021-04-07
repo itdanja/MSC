@@ -1,0 +1,41 @@
+.sponsors-box_column1{
+	width: 1920px;
+	height: 1440px;
+	color: var(--bgcolor);
+	margin: 50px 0px;
+	
+}
+.sponsors-box_column1_text{
+	width: 300px;
+	height: 100px;
+	background-color: var(--columnbgcolor);
+	position: relative;	
+	left: 880px;
+	top: -900px;
+	border-radius: 45%;
+	text-align: center;
+	padding-top: 40px;
+	line-height: 30px;
+}
+.sponsors-box_column1_text h2{
+	font-size: 30px;
+}
+.sponsors-box_column2_imgbox{
+	width: 1200px;
+	height: 150px;
+	background-color: #cccccc;
+	margin-left: 360px;
+	margin-bottom: 50px;
+}
+.logo-nike{
+	width: 100px;
+	height: 36px;
+}
+.sponsors-logo02{
+	width: 100px;
+	height: 78px;
+}
+.sponsors-logo03{
+	width: 100px;
+	height: 75px;
+}

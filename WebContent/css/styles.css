@@ -11,6 +11,9 @@
 @import "screens/signup.css";
 @import "screens/login.css";
 @import "screens/who_need_this.css";
+@import "screens/about_us.css";
+@import "screens/sponsors.css";
+
 
 /* sns_screens */
 @import "sns_screens/snsindex.css";

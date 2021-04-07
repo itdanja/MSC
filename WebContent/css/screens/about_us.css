@@ -1,0 +1,114 @@
+
+.about_us-box_column1{
+	margin-top: 130px;
+	color: var(--bgcolor);
+	width: 700px;
+	height: 500px;
+	background-color: var(--columnbgcolor);
+	margin-left: 400px;
+	
+}
+.about_us-box_column1_text{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.about_us-box_column1_text h2{
+	font-size: 30px;
+	margin-top: 200px;
+	padding-right: 292px;
+}
+.about_us-box_column1_text p{
+	font-size: 20px;
+	line-height: 25px;
+	margin-top: 20px;
+}
+.about_us-box_column1_img img{
+	width: 400px;
+	height: 266px;
+	position: relative;
+	right: -630px;
+	top: -200px;
+}
+.about_us-box_column2{
+	margin-top: 50px;
+}
+.about_us-box_column2_text{
+	font-size: 30px;
+	position: relative;
+	top: -200px;
+	left: 150px;
+	line-height: 40px;
+}
+.about_us-box_column3{
+	width:1000px;
+	height: 700px;
+	background-color: #cccccc;
+	margin-left: 450px;
+	margin-bottom: 80px;
+	
+}
+#map_ma {
+	width:500px; 
+	height:400px; 
+	clear:both; 
+	border:solid 1px red;
+	color: black;
+	font-size: 20px;
+	position: relative;
+	top: 100px;
+	left: 50px;
+}
+.about_us-box_column3_text{
+	width: 300px;
+	height: 300px;
+	color: var(--bgcolor);
+	background-color: var(--columnbgcolor);
+	float: right;
+	position: relative;
+	top: -150px;
+	left: -50px;
+	text-align: center;
+	line-height: var(--line-height);
+}
+.about_us-box_column3_text p{
+	margin-top: 90px;
+}
+.about_us-box_column4{
+	width: 1200px;
+	height: 800px;
+	margin: 80px 0px 80px 100px;
+}
+.about_us-box_column4 img{
+	width: 1200px;
+	height: 800px;
+}
+.about_us-box_column4_text{
+	font-size: 30px;
+	position: relative;
+	color: white;
+	top: -150px;
+	left: 40px;
+	line-height: 40px; 
+}
+.about_us-box_column5 img{
+	width: 1200px;
+	height: 800px;
+	margin-left: 600px;	
+}
+.about_us-box_column5_text{
+	width:800px;
+	height: 180px;
+	padding: 20px 20px;
+	background-color: var(--bgcolor);
+	font-size: 30px;
+	position: relative;
+	color: var;
+	top: -650px;
+	left: 300px;
+	line-height: 40px; 
+}
+.about_us-box_column5_text span{
+	font-size: 20px;
+}

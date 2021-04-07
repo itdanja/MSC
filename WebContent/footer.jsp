@@ -17,7 +17,7 @@
 
 	<div class="footer-box">
 		<ul class="footer-column1">
-			<li>회사소개</li>
+			<li><a href="about_us.jsp">회사소개</a></li>
 			<li>인재채용</li>
 			<li>공지사항</li>
 			<li>고객의 소리</li>

@@ -18,9 +18,9 @@
 	<header class="header-box">
 		<ul class="header-menu">
 			<li class="header-list header-logo"><a href="index.jsp"><img src="img/MSC_logo.png"> </a></li>
-			<li class="header-list header-about"><a href="aboutus.jsp"> 회사소개</a></li>
+			<li class="header-list header-about"><a href="about_us.jsp"> 회사소개</a></li>
 			<li class="header-list header-signup"><a href="signup.jsp">회원가입</a></li>
-			<li class="header-list header-sponsors">스폰서</li>
+			<li class="header-list header-sponsors"><a href="sponsors.jsp">스폰서</a></li>
 			<li class="header-list header-who-need-this"><a href="who_need_this.jsp">Who need this?</a></li>
 			<li class="menu-btn">
 				<i class="fas fa-bars fa-2x"></i>
@@ -35,8 +35,8 @@
 			  	<div class="menu-signup menu-contents"><a href="signup.jsp">회원가입</a></div>
 			  	<div class="menu-questions menu-contents"> 문의사항 </div>
 			  	<!-- ------------------------------------------------- -->
-			  	<div class="menu-about menu-info"><a href="aboutus.jsp"> 회사소개</a> </div>
-			  	<div class="menu-sponsors menu-info"> 스폰서 </div>
+			  	<div class="menu-about menu-info"><a href="about_us.jsp"> 회사소개</a> </div>
+			  	<div class="menu-sponsors menu-info"><a href="sponsors.jsp">스폰서</a> </div>
 			  	<div class="menu-who-need-this menu-info"><a href="who_need_this.jsp">who need this?</a> </div>
 			  	<div class="menu-snsindex menu-info"> <a href="sns-index.jsp"> 모바일 화면으로 보기</a> </div>
 			</li>
