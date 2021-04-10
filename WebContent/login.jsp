@@ -24,11 +24,11 @@
     		<div class="login-table">
     			<div>
     				<label> 아이디 </label>
-    				<input class="login-id-input" type="text" name="" placeholder="아이디" size="12" > 
+    				<input class="login-id-input" type="text" name="logID" placeholder="아이디" size="12" > 
     			</div>
     			<div>
     				<label> 패스워드 </label>
-    				<input class="login-pw-input" type="password" name="" placeholder="패스워드" size="12" >
+    				<input class="login-pw-input" type="password" name="logPW" placeholder="패스워드" size="12" >
  				</div>
 	   			<div>
     				<input class="login-submit" type="submit" value="로그인">

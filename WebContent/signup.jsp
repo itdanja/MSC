@@ -79,45 +79,45 @@
     <div class="signup-box">
     	<h2> 회원가입 </h2>
     	
-    	<form action="login.jsp" method="post">
+    	<form action="signupAction.jsp" method="post">
     		<div class="signup-table">
     			<div>
     				<label> 아이디 </label>
-    				<input class="signup-id-input" type="text" name="" placeholder="아이디" size="12" > 
+    				<input class="signup-id-input" type="text" name="userID" placeholder="아이디" size="12" > 
     			</div>
     			<div>
     				<label> 패스워드 </label>
-    				<input class="signup-pw-input" type="password" name="" placeholder="패스워드" size="12" >
+    				<input class="signup-pw-input" type="password" name="password" placeholder="패스워드" size="12" >
  				</div>
  				<div>
 	    			<label> 패스워드 확인 </label>
-	    			<input class="signup-pwConfirm-input" type="password" name="" placeholder="패스워드 확인" size="12">
+	    			<input class="signup-pwConfirm-input" type="password" name="password-confirm" placeholder="패스워드 확인" size="12">
 	    		</div>	
 	    		<div>	
 	    			<label> 이름 </label> 
-	    			<input class="signup-name-input" type="text" name="" placeholder="이름" size="6">
+	    			<input class="signup-name-input" type="text" name="name" placeholder="이름" size="6">
 	    		</div> 
 	    		<div>	
 	    			<label> 성별 </label> 
-	    			<input class="signup-gender-input" type="radio" name="" placeholder="성별" checked="checked"> 남 
+	    			<input class="signup-gender-input" type="radio" name="gender" placeholder="성별" checked="checked"> 남 
 	    			<input type="radio" name="" placeholder="성별"> 여 
 	    		</div>
 	    		<div>
 	    			<label> 생년월일 </label>
-	    			<input class="signup-birth-input" type="text" name="" placeholder="년도(4자리)" maxlength="4" size="6"> 년 &nbsp;&nbsp;
-					<input type="text" name="" placeholder="월(2자리)" maxlength="2" size="4"> 월 &nbsp;&nbsp;
-					<input type="text" name="" placeholder="일(2자리)" maxlength="2" size="4"> 일 &nbsp;&nbsp;
+	    			<input class="signup-birth-input" type="text" name="birthyy" placeholder="년도(4자리)" maxlength="4" size="6"> 년 &nbsp;&nbsp;
+					<input type="text" name="birthmm" placeholder="월(2자리)" maxlength="2" size="4"> 월 &nbsp;&nbsp;
+					<input type="text" name="birthdd" placeholder="일(2자리)" maxlength="2" size="4"> 일 &nbsp;&nbsp;
 				</div>
 	    		<div>	
 	    			<label> 전화변호 </label>
-	    			<input class="signup-phone-input" type="text" name="" size="2" maxlength="3" placeholder="010"> -
-	    			<input type="text" name="" size="4" maxlength="4"> -
-	   				<input type="text" name="" size="4" maxlength="4">	
+	    			<input class="signup-phone-input" type="text" name="phone1" size="2" maxlength="3"> -
+	    			<input type="text" name="phone2" size="4" maxlength="4"> -
+	   				<input type="text" name="phone3" size="4" maxlength="4">	
 	   			</div>
 	   			<div>	
 	   				<label> 이메일 </label>	 
-	    			<input class="signup-email-input" type="text" name="" placeholder="이메일" size="10">@ 				
-	    			<select name="">
+	    			<input class="signup-email-input" type="text" name="mail1" placeholder="이메일" size="10">@ 				
+	    			<select name="mail2">
 	    				<option>직접입력</option>
 	    				<option>naver.com</option>
 	    				<option>gmail.com</option>
@@ -126,11 +126,11 @@
 	    		</div>
 	    		<div>	
 	    			<label> 근무지 </label> 
-	   				<input class="signup-workplace-input" type="text" name="" placeholder="근무지">
+	   				<input class="signup-workplace-input" type="text" name="workplace" placeholder="근무지">
 				</div>
 				<div>    			
 	    			<label> 출신학교 </label> 
-	    			<input class="signup-school-input" type="text" name="" placeholder="출신학교">
+	    			<input class="signup-school-input" type="text" name="school" placeholder="출신학교">
 	    		</div>
 	   			<div>	
 	   				<label> 주소 </label>

@@ -32,7 +32,7 @@
 				<img class="sponsors-logo01 logo-nike" src="img/nike_logo.png">
 				<img class="sponsors-logo02 " src="img/under_armour_logo.png">
 				<img class="sponsors-logo03" src="img/adidas_logo.png">
-				<img class="sponsors-logo04" src="">
+				<img class="sponsors-logo04" src="img/nb_logo.png">
 				<img class="sponsors-logo05" src="">
 			</div>
 		</div>		
