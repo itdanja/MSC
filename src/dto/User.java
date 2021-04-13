@@ -11,7 +11,9 @@ public class User {
 	private String address;
 	private String workplace;
 	private String school;
-	private Integer bigThree;
+	private Integer squat;
+	private Integer deadlift;
+	private Integer benchpress;
 	
 	
 	public String getUserID() {
@@ -74,11 +76,24 @@ public class User {
 	public void setSchool(String school) {
 		this.school = school;
 	}
-	public Integer getBigThree() {
-		return bigThree;
+	public Integer getSquat() {
+		return squat;
 	}
-	public void setBigThree(Integer bigThree) {
-		this.bigThree = bigThree;
+	public void setSquat(Integer squat) {
+		this.squat = squat;
 	}
+	public Integer getDeadlift() {
+		return deadlift;
+	}
+	public void setDeadlift(Integer deadlift) {
+		this.deadlift = deadlift;
+	}
+	public Integer getBenchpress() {
+		return benchpress;
+	}
+	public void setBenchpress(Integer benchpress) {
+		this.benchpress = benchpress;
+	}
+	
 	
 }
