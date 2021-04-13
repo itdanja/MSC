@@ -28,7 +28,7 @@ public class UserDao {
 	// 메소드 : 회원 추가
 	public int setUser( User user ) {
 		
-		String SQL = "INSERT INTO user values(?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
+		String SQL = "INSERT INTO user values(?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
 		
 		try {
 			
@@ -43,7 +43,9 @@ public class UserDao {
 			pstmt.setString(8, user.getAddress());
 			pstmt.setString(9, user.getWorkplace());
 			pstmt.setString(10, user.getSchool());
-			pstmt.setInt(11, user.getBigThree());
+			pstmt.setInt(11, user.getSquat());
+			pstmt.setInt(12, user.getDeadlift());
+			pstmt.setInt(13, user.getBenchpress());
 			
 			return 1;
 		}
