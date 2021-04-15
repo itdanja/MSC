@@ -10,7 +10,7 @@
 	height: 150px;
 	background-color: var(--bgcolor);
 	position: relative;	
-	left: 850px;
+	left: 800px;
 	top: -900px;
 	border-radius: 45%;
 	text-align: center;
@@ -24,23 +24,43 @@
 .sponsors-box_column2_imgbox{
 	width: 1200px;
 	height: 150px;
-	background-color: #cccccc;
+	background-color: var(--columnbgcolor);
 	margin-left: 360px;
 	margin-bottom: 50px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
 }
-.logo-nike{
+
+.sponsors-logo{
+	margin: 0px 20px;
+}
+.nike-logo{
 	width: 100px;
 	height: 36px;
 }
-.sponsors-logo02{
+.under-logo{
 	width: 100px;
 	height: 78px;
 }
-.sponsors-logo03{
+.adidas-logo{
 	width: 100px;
 	height: 75px;
 }
-.sponsors-logo04{
+.new-logo{
 	width: 100px;
 	height: 50px;
+}
+.redbull-logo{
+	width: 100px;
+	height: 75px;
+}
+.descente-logo{
+	width: 100px;
+	height: 100px;
+}
+.lecoqsportif-logo{
+	width: 100px;
+	height: 100px;
 }

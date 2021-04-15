@@ -29,11 +29,13 @@
 
 		<div class="sponsors-box_column2">
 			<div class="sponsors-box_column2_imgbox">
-				<img class="sponsors-logo01 logo-nike" src="img/nike_logo.png">
-				<img class="sponsors-logo02 " src="img/under_armour_logo.png">
-				<img class="sponsors-logo03" src="img/adidas_logo.png">
-				<img class="sponsors-logo04" src="img/nb_logo.png">
-				<img class="sponsors-logo05" src="">
+				<img class="sponsors-logo nike-logo" src="img/nike_logo.png">
+				<img class="sponsors-logo under-logo" src="img/under_armour_logo.png">
+				<img class="sponsors-logo adidas-logo" src="img/adidas_logo.png">
+				<img class="sponsors-logo new-logo" src="img/nb_logo.png">
+				<img class="sponsors-logo redbull-logo" src="img/redbull_logo.png">
+				<img class="sponsors-logo descente-logo" src="img/descente_logo.png">
+				<img class="sponsors-logo lecoqsportif-logo" src="img/lecoqsportif_logo.png">
 			</div>
 		</div>		
 	</div>
