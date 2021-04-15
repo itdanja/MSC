@@ -23,7 +23,7 @@
 			<li>고객의 소리</li>
 			<li>이용약관</li>
 			<li>개인정보처리방침</li>
-			<li>광고안내</li>
+			<li><a href="sponsors.jsp">광고안내 </a></li>
 		</ul>
 		<div class="footer-column2">
 			<div class="footer-column2_logo"> <img src="img/MSC_logo.png"> </div>
