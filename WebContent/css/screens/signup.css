@@ -1,7 +1,6 @@
 .signup-box{
 	width: 800px;
 	height: 1050px;
-	background-color: white;
 	margin: 150px 0px; 
 	border: solid 2px var(--bgcolor); 
 	border-radius: 25px;

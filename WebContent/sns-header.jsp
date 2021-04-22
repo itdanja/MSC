@@ -32,7 +32,7 @@
 			  		<i class="fad fa-times-circle fa-2x"></i>
 			  	</div>
 			  	<div class="menu-login menu-contents"><a href="login.jsp">로그아웃</a> <!-- 로그인시 세션 아이디 출력 --> </div>
-			  	<div class="menu-questions menu-contents"> 문의사항 </div>
+			  	<div class="menu-questions menu-contents"><a href="questions.jsp"> 문의사항</a> </div>
 			  	<!-- ------------------------------------------------- -->
 			  	<div class="menu-about menu-info"><a href="aboutus.jsp"> 회사소개</a> </div>
 			  	<div class="menu-careers menu-info"> 커리어 </div>

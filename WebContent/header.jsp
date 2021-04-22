@@ -33,7 +33,7 @@
 			  	</div>
 			  	<div class="menu-login menu-contents"><a href="login.jsp">로그인</a> <!-- 로그인시 세션 아이디 출력 --> </div>
 			  	<div class="menu-signup menu-contents"><a href="signup.jsp">회원가입</a></div>
-			  	<div class="menu-questions menu-contents"> 문의사항 </div>
+			  	<div class="menu-questions menu-contents"><a href="questions.jsp"> 문의사항</a> </div>
 			  	<!-- ------------------------------------------------- -->
 			  	<div class="menu-about menu-info"><a href="about_us.jsp"> 회사소개</a> </div>
 			  	<div class="menu-sponsors menu-info"><a href="sponsors.jsp">스폰서</a> </div>

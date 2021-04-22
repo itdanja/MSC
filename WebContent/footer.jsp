@@ -20,7 +20,7 @@
 			<li><a href="about_us.jsp">회사소개</a></li>
 			<li>인재채용</li>
 			<li>공지사항</li>
-			<li>고객의 소리</li>
+			<li><a href="questions.jsp"> 문의사항</a></li>
 			<li>이용약관</li>
 			<li>개인정보처리방침</li>
 			<li><a href="sponsors.jsp">광고안내 </a></li>
